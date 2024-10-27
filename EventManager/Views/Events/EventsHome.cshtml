@@ -1,2 +1,33 @@
-﻿
-<h1>Hello World</h1>
+﻿@model IEnumerable<EventManager.Models.Events>
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Events</title>
+    </head>
+    <body>
+
+    <table>
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+    
+    @foreach(var a in Model)
+    {
+            <tr>
+                <td>@a.Id</td>
+                <td>@a.Name</td>
+                <td>@a.Description</td>
+                <td>@a.Date</td>
+            </tr>
+    }
+
+    </table>
+
+    </body>
+    </html>
+
+
+

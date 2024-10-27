@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|c:\\users\\morgan lee\\documents\\github\\eventmanagerproject\\eventmanager\\views\\events\\eventshome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\views\\events\\eventshome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|c:\\users\\morgan lee\\documents\\github\\eventmanagerproject\\eventmanager\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|c:\\users\\morgan lee\\documents\\github\\eventmanagerproject\\eventmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|c:\\users\\morgan lee\\documents\\github\\eventmanagerproject\\eventmanager\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\EventsHome.cshtml",
+              "RelativeDocumentMoniker": "EventManager\\Views\\Events\\EventsHome.cshtml",
+              "ToolTip": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\EventsHome.cshtml",
+              "RelativeToolTip": "EventManager\\Views\\Events\\EventsHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:39:59.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventManager\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventManager\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:38:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "EventManager\\Models\\Events.cs",
+              "ToolTip": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Models\\Events.cs",
+              "RelativeToolTip": "EventManager\\Models\\Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:36:35.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:28:44.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
