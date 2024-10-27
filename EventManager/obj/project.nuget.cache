@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cv9r09a6WKA=",
+  "dgSpecHash": "kkO9mGQ5P1g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManager\\EventManager\\EventManager\\EventManager.csproj",
+  "projectFilePath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Morgan Lee\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Morgan Lee\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

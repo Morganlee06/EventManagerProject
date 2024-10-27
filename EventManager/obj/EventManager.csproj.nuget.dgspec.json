@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManager\\EventManager\\EventManager\\EventManager.csproj": {}
+    "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManager\\EventManager\\EventManager\\EventManager.csproj": {
+    "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManager\\EventManager\\EventManager\\EventManager.csproj",
+        "projectUniqueName": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
         "projectName": "EventManager",
-        "projectPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManager\\EventManager\\EventManager\\EventManager.csproj",
+        "projectPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
         "packagesPath": "C:\\Users\\Morgan Lee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManager\\EventManager\\EventManager\\obj\\",
+        "outputPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Morgan Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
