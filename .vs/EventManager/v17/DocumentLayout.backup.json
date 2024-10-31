@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "EventManager\\Views\\Events\\EventsHome.cshtml",
               "ToolTip": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\EventsHome.cshtml",
               "RelativeToolTip": "EventManager\\Views\\Events\\EventsHome.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T14:39:59.357Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "EventManager\\Controllers\\EventsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:38:02.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T14:38:02.9Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "EventManager\\Models\\Events.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:36:35.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T14:36:35.889Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "EventManager\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:28:44.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T14:28:44.387Z"
             }
           ]
         }
