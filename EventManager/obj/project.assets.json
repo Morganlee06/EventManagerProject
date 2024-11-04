@@ -4486,19 +4486,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Morgan Lee\\.nuget\\packages\\": {}
+    "C:\\Users\\692115\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
+      "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
       "projectName": "EventManager",
-      "projectPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
-      "packagesPath": "C:\\Users\\Morgan Lee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Morgan Lee\\Documents\\GitHub\\EventManagerProject\\EventManager\\obj\\",
+      "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\EventManager.csproj",
+      "packagesPath": "C:\\Users\\692115\\.nuget\\packages\\",
+      "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Morgan Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\692115\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4570,7 +4570,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

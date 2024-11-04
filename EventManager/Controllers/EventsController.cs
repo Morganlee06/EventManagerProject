@@ -13,13 +13,13 @@ namespace EventManager.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> EventsHome(int id)
         {
-            var events = await _context.Events.ToListAsync();
+            var events = await _context.Events.FirstOrDefaultAsync(x => x.Id == id);
             return View(events);
         }
 
-        public IActionResult EventsHome()
+        public IActionResult Index()
         {
             return View();
         }
