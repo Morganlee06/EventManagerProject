@@ -1,0 +1,40 @@
+﻿@model EventManager.Models.Events
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Form</title>
+    </head>
+    <body>
+
+        <form asp-action="Create">
+          <div asp-validation-summary="ModelOnly"></div>
+          <div>
+              <label asp-for="Id"></label>
+              <input asp-for="Id"/>
+              <span asp-validation-for="Id"></span>
+          </div>
+
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name"></span>
+        </div>
+
+        <div>
+            <label asp-for="Description"></label>
+            <input asp-for="Description" />
+            <span asp-validation-for="Description"></span>
+        </div>
+
+        <div>
+            <label asp-for="Date"></label>
+            <input asp-for="Date" />
+            <span asp-validation-for="Date"></span>
+        </div>
+
+        </form>
+
+    <a asp-controller="Events" asp-action="Create">Add</a>
+    </body>
+    </html>

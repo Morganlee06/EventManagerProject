@@ -6,16 +6,13 @@
       "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\views\\events\\eventshome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\data\\migrations\\20241104091756_initialcreate2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87CD3CC2-8357-4CE9-8953-00CD4296B171}|EventManager\\EventManager.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\692115\\github\\eventmanagerproject\\eventmanager\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,40 +30,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20241104091756_InitialCreate2.Designer.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Data\\Migrations\\20241104091756_InitialCreate2.Designer.cs",
-              "RelativeDocumentMoniker": "EventManager\\Data\\Migrations\\20241104091756_InitialCreate2.Designer.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Data\\Migrations\\20241104091756_InitialCreate2.Designer.cs",
-              "RelativeToolTip": "EventManager\\Data\\Migrations\\20241104091756_InitialCreate2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:21:22.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EventManager\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EventManager\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:10:19.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EventsHome.cshtml",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\EventsHome.cshtml",
               "RelativeDocumentMoniker": "EventManager\\Views\\Events\\EventsHome.cshtml",
               "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\EventsHome.cshtml",
               "RelativeToolTip": "EventManager\\Views\\Events\\EventsHome.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T14:39:59.357Z",
+              "WhenOpened": "2024-11-05T11:55:32.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventManager\\Controllers\\HomeController.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:43:27.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "EventManager\\Models\\Events.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Models\\Events.cs",
+              "RelativeToolTip": "EventManager\\Models\\Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:43:22.584Z",
               "EditorCaption": ""
             },
             {
@@ -77,34 +74,22 @@
               "RelativeDocumentMoniker": "EventManager\\Controllers\\EventsController.cs",
               "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Controllers\\EventsController.cs",
               "RelativeToolTip": "EventManager\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:38:02.9Z",
+              "WhenOpened": "2024-11-05T11:30:12.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Events.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Models\\Events.cs",
-              "RelativeDocumentMoniker": "EventManager\\Models\\Events.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Models\\Events.cs",
-              "RelativeToolTip": "EventManager\\Models\\Events.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:36:35.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EventManager\\Controllers\\HomeController.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EventManager\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:28:44.387Z",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventManager\\Views\\Events\\Create.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\692115\\GitHub\\EventManagerProject\\EventManager\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "EventManager\\Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:04:01.265Z",
               "EditorCaption": ""
             }
           ]
